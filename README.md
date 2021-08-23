@@ -13,4 +13,5 @@
       > References 정리: [SKlearn-Nearest Neighbors(Notion)](https://www.notion.so/Nearest-Neighbors-7e1ca6a02e4b4ee18d24c5c2294c50b3)
     * [Ch03 Code(Google Colab)](https://colab.research.google.com/drive/1NZDLK2oeEb2PvMzB3m6PAMjhlLwUXYmw) 
     * [Ch03 Exercise01 Code(Google Colab)](https://colab.research.google.com/drive/173DXvFgdqvXIv-YZ5vxFCplwGV5PuSXI#scrollTo=_miqVhAXGEY3)
-    
+  * **[Ch04]** Model Training
+    * [Ch04_Code(Google Colab)](https://colab.research.google.com/drive/15iFPDb3UgPJnLfV7PRb4QuoG75TRv564#scrollTo=1UyeBRXUjol9)
